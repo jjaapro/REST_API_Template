@@ -1,0 +1,10 @@
+pyjwt
+flask
+flask-sqlalchemy
+sqlalchemy
+flask-restful
+passlib
+uuid
+pyodbc
+flasgger
+gevent
